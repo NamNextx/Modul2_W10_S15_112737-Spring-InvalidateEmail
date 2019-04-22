@@ -11,6 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-
+ <p>
+   Done:  ${message}
+ </p>
 </body>
 </html>

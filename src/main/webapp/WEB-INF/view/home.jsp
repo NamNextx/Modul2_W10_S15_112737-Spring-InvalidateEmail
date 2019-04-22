@@ -15,8 +15,9 @@
     <h3 style="counter:red">${message}</h3>
 
     <form action="/validate" method="post" >
-        <input type="email" name="email"> </br>
+        <input type="text" name="email"> </br>
         <input type="submit" value="Check">
     </form>
+
   </body>
 </html>
